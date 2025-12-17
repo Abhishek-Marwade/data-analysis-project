@@ -4,8 +4,6 @@ Note: The project is under working
 
 A powerful, fully offline data analytics application built with Python and Streamlit. Upload any CSV or Excel file to automatically analyze, visualize, and apply machine learning models to your data.
 
-![DataViz Pro](assets/screenshot.png)
-
 ## ✨ Features
 
 ### 📋 Smart Data Profiling
