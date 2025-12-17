@@ -1,3 +1,5 @@
+Note: The project is under working
+
 # 📊 DataViz Pro - Professional Data Analytics Platform
 
 A powerful, fully offline data analytics application built with Python and Streamlit. Upload any CSV or Excel file to automatically analyze, visualize, and apply machine learning models to your data.
@@ -168,5 +170,3 @@ Built with:
 - [scikit-learn](https://scikit-learn.org/) - Machine learning made simple
 
 ---
-
-**Made with ❤️ for data enthusiasts**
