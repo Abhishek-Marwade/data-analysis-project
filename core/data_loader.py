@@ -40,6 +40,7 @@ def validate_file(uploaded_file) -> Tuple[bool, str]:
     return True, "File is valid"
 
 
+# Load the uploaded file
 def load_file(uploaded_file) -> Tuple[Optional[pd.DataFrame], str]:
     """
     Load a CSV or Excel file into a pandas DataFrame.
